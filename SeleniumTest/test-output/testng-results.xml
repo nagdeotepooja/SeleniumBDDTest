@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-05T19:58:51 IST" name="Suite" finished-at="2025-01-05T19:59:19 IST" duration-ms="28283">
+    <groups>
+    </groups>
+    <test started-at="2025-01-05T19:58:51 IST" name="FirefoxTest1" finished-at="2025-01-05T19:59:13 IST" duration-ms="22553">
+      <class name="SingletonWithSelenium.AppTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SingletonWithSelenium.AppTest@2d901eb0]" started-at="2025-01-05T19:58:51 IST" name="setup" finished-at="2025-01-05T19:58:55 IST" duration-ms="3884" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGoogle()[pri:0, instance:SingletonWithSelenium.AppTest@2d901eb0]" started-at="2025-01-05T19:58:55 IST" name="testGoogle" finished-at="2025-01-05T19:59:11 IST" duration-ms="16068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SingletonWithSelenium.AppTest@2d901eb0]" started-at="2025-01-05T19:59:11 IST" name="teardown" finished-at="2025-01-05T19:59:13 IST" duration-ms="2572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SingletonWithSelenium.AppTest -->
+    </test> <!-- FirefoxTest1 -->
+    <test started-at="2025-01-05T19:58:51 IST" name="ChromeTest2" finished-at="2025-01-05T19:59:17 IST" duration-ms="25841">
+      <class name="SingletonWithSelenium.AppTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SingletonWithSelenium.AppTest@8519cb4]" started-at="2025-01-05T19:58:51 IST" name="setup" finished-at="2025-01-05T19:58:53 IST" duration-ms="2213" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGoogle()[pri:0, instance:SingletonWithSelenium.AppTest@8519cb4]" started-at="2025-01-05T19:58:53 IST" name="testGoogle" finished-at="2025-01-05T19:59:16 IST" duration-ms="23423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SingletonWithSelenium.AppTest@8519cb4]" started-at="2025-01-05T19:59:16 IST" name="teardown" finished-at="2025-01-05T19:59:17 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SingletonWithSelenium.AppTest -->
+    </test> <!-- ChromeTest2 -->
+    <test started-at="2025-01-05T19:58:51 IST" name="ChromeTest1" finished-at="2025-01-05T19:59:17 IST" duration-ms="25870">
+      <class name="SingletonWithSelenium.AppTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SingletonWithSelenium.AppTest@6892b3b6]" started-at="2025-01-05T19:58:51 IST" name="setup" finished-at="2025-01-05T19:58:53 IST" duration-ms="1947" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGoogle()[pri:0, instance:SingletonWithSelenium.AppTest@6892b3b6]" started-at="2025-01-05T19:58:53 IST" name="testGoogle" finished-at="2025-01-05T19:59:16 IST" duration-ms="23683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SingletonWithSelenium.AppTest@6892b3b6]" started-at="2025-01-05T19:59:16 IST" name="teardown" finished-at="2025-01-05T19:59:17 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SingletonWithSelenium.AppTest -->
+    </test> <!-- ChromeTest1 -->
+    <test started-at="2025-01-05T19:58:51 IST" name="EdgeTest2" finished-at="2025-01-05T19:59:18 IST" duration-ms="26950">
+      <class name="SingletonWithSelenium.AppTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SingletonWithSelenium.AppTest@68c9133c]" started-at="2025-01-05T19:58:51 IST" name="setup" finished-at="2025-01-05T19:58:54 IST" duration-ms="3094" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGoogle()[pri:0, instance:SingletonWithSelenium.AppTest@68c9133c]" started-at="2025-01-05T19:58:54 IST" name="testGoogle" finished-at="2025-01-05T19:59:16 IST" duration-ms="22541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SingletonWithSelenium.AppTest@68c9133c]" started-at="2025-01-05T19:59:16 IST" name="teardown" finished-at="2025-01-05T19:59:18 IST" duration-ms="1289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SingletonWithSelenium.AppTest -->
+    </test> <!-- EdgeTest2 -->
+    <test started-at="2025-01-05T19:58:51 IST" name="EdgeTest1" finished-at="2025-01-05T19:59:18 IST" duration-ms="26950">
+      <class name="SingletonWithSelenium.AppTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SingletonWithSelenium.AppTest@18271936]" started-at="2025-01-05T19:58:51 IST" name="setup" finished-at="2025-01-05T19:58:53 IST" duration-ms="1737" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGoogle()[pri:0, instance:SingletonWithSelenium.AppTest@18271936]" started-at="2025-01-05T19:58:53 IST" name="testGoogle" finished-at="2025-01-05T19:59:16 IST" duration-ms="23888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SingletonWithSelenium.AppTest@18271936]" started-at="2025-01-05T19:59:16 IST" name="teardown" finished-at="2025-01-05T19:59:18 IST" duration-ms="1289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SingletonWithSelenium.AppTest -->
+    </test> <!-- EdgeTest1 -->
+    <test started-at="2025-01-05T19:58:51 IST" name="FirefoxTest2" finished-at="2025-01-05T19:59:19 IST" duration-ms="28283">
+      <class name="SingletonWithSelenium.AppTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:SingletonWithSelenium.AppTest@72cc7e6f]" started-at="2025-01-05T19:58:51 IST" name="setup" finished-at="2025-01-05T19:58:54 IST" duration-ms="3340" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGoogle()[pri:0, instance:SingletonWithSelenium.AppTest@72cc7e6f]" started-at="2025-01-05T19:58:54 IST" name="testGoogle" finished-at="2025-01-05T19:59:16 IST" duration-ms="22259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SingletonWithSelenium.AppTest@72cc7e6f]" started-at="2025-01-05T19:59:16 IST" name="teardown" finished-at="2025-01-05T19:59:19 IST" duration-ms="2655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SingletonWithSelenium.AppTest -->
+    </test> <!-- FirefoxTest2 -->
+  </suite> <!-- Suite -->
+</testng-results>
